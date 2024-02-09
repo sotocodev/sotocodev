@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
 <h1 align="center">👨🏻‍💻 Hola y bienvenido, me llamo Jesus Soto</h1>
 <h3 align="center">Ingeniero en Informatica y Sr. Frontend Developer</h3>
 
@@ -52,3 +57,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sotocodev&show_icons=true&locale=en" alt="sotocodev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sotocodev&" alt="sotocodev" /></p>
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sotocodev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&order=1" height="135" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sotocodev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=apprentice&hide_border=false&order=2" height="135" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sotocodev&locale=en&mode=weekly&theme=apprentice&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="135" alt="streak graph"  />
+  </div>
+  <div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sotocodev&radius=16&theme=nightowl&area=true&order=5&bg_color=191924&color=FEAB09&title_color=fff&line=FEAB09&point=ffff&area_color=FEAB09&hide_border=false&hide_title=false" height="500" alt="activity-graph graph"  />
+  </div>
+</div>
