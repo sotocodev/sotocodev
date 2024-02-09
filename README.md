@@ -26,23 +26,6 @@
 - 📄 Conoce acerca de mis experiencias [Certificados/Diplomas](https://sotocodev.com/certificados) [Proyectos laborales](https://sotocodev.com/work-projects) [Proyectos Personales](https://sotocodev.com/personal-projects) [Proyectos Practicos](https://sotocodev.com/sample-projects)
 
 
-
-
-<div align="center">
-  <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sotocodev&radius=16&theme=nightowl&area=true&order=5&bg_color=191924&color=FEAB09&title_color=fff&line=FEAB09&point=ffff&area_color=FEAB09&hide_border=false&hide_title=false" height="400" alt="activity-graph graph"  />
-  </div>
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sotocodev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=apprentice&hide_border=false&order=2" height="170px" alt="languages graph"  />
-   
-  <img src="https://streak-stats.demolab.com?user=sotocodev&locale=en&mode=weekly&theme=apprentice&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="170px" alt="streak graph"  />
-  </div>
-  
-</div>
-
-
-
-
 <h2 align="left">Conecta conmigo mediante:</h2>
 <p align="left">
 <a href="https://codepen.io/sotocodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sotocodev" height="30" width="40" /></a>
