@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="auto" width="100%" src="https://webcroslet.com/projects/BannerPrincipal.png"  />
+  <img height="auto" width="100%" src="https://webcroslet.com/projects/Banner.png"  />
 </div>
 
 
