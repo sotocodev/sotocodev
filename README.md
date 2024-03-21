@@ -4,7 +4,7 @@
 
 
 <h2>Acerca de Mi</h2>
-<p align="left">🚀 ¡Hola! Soy Jesus Soto, Ingeniero en Informática y Fullstack con 8 años(2016 - 2024) de experiencia en el desarrollo web. Me apasiona el Frontend y el Backend usando Javascript como lenguaje materno, donde destaco como Senior en JavaScript, TypeScript, CSS3 y HTML5, especialmente utilizando ReactJs, NextJs, ExpressJs, NodeJs y MongoDb. En el mundo de WordPress, soy experto con mas de 5 años de experiencia, trabajando con Elementor y WooCommerce para crear experiencias web excepcionales.
+<p align="left">🚀 ¡Hola! Soy Jesus Soto, Ingeniero en Informática y Fullstack en el desarrollo web con 8 años(2016 - 2024) de experiencia y sumando. Me apasiona el Frontend y el Backend usando Javascript como lenguaje materno, donde destaco como Senior en JavaScript, TypeScript, CSS3 y HTML5, especialmente utilizando ReactJs, NextJs, ExpressJs, NodeJs y MongoDb. En el mundo de WordPress, soy experto con mas de 5 años de experiencia, trabajando con Elementor y WooCommerce para crear experiencias web excepcionales.
 
 🔍 He tenido el privilegio de trabajar en diversos proyectos, desde sitios web hasta tiendas en línea, y mi enfoque siempre está en la optimización y mejora continua. Mi habilidad para adaptarme rápidamente a nuevas herramientas y metodologías me permite mantenerme actualizado y ofrecer soluciones innovadoras.
 
