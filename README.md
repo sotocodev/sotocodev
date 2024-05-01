@@ -19,7 +19,7 @@
 
 ## My Stacks
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=wordpress,html,css,js,ts,nodejs,react,redux,express,nextjs,mongodb,nestjs,tailwind,vite,figma,vscode,git,github,azure,graphql,babel,bootstrap,npm,docker,jest,postman,electron&theme=dark" />
 
 ## Sobre mi
 <br />
