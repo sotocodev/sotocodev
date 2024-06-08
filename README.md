@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="auto" width="100%" src="https://webcroslet.com/projects/Banner_Github.png"  />
+![Type=Github](https://github.com/sotocodev/sotocodev/assets/133919332/e9baa904-f622-4b8d-bde1-91ddc28c335d)
 </div>
 <div align='center'>
 
