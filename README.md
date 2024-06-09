@@ -20,7 +20,7 @@
 
 <div><br />
 
-## My Stacks
+## Mis Stacks
 ![React js](https://github.com/sotocodev/sotocodev/assets/133919332/566a16cc-49f5-4a89-9b00-4247fe3bab49)
 ![TypeScript](https://github.com/sotocodev/sotocodev/assets/133919332/76eaa1bf-5e33-4c30-a6f5-7fcd6e53bb5e)
 ![Javascript](https://github.com/sotocodev/sotocodev/assets/133919332/aa1f3e68-931e-4bf8-a761-0dfe9dd973b9)
