@@ -6,7 +6,7 @@
 
 <div align="center">  
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sotocodev&show_icons=true&count_private=true&title_color=FEAB09&icon_color=FEAB09&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sotocodev&show_icons=true&count_private=true&title_color=FEAB09&icon_color=FEAB09&text_color=c9d1d9&bg_color=0d1117&border_color=fff0&cache_seconds=1800" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sotocodev&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
  
@@ -112,16 +112,21 @@
 
 ## Sobre mi
 <br />
-<p align="left">🚀 ¡Hola! Soy Jesus Soto, Ingeniero en Informática y Fullstack en el desarrollo web con 8 años(2016 - 2024) de experiencia y sumando. Me apasiona el Frontend y el Backend usando Javascript como lenguaje materno, donde destaco como Senior en JavaScript, TypeScript, CSS3 y HTML5, especialmente utilizando ReactJs, NextJs, ExpressJs, NodeJs y MongoDb. En el mundo de WordPress, soy experto con mas de 5 años de experiencia, trabajando con Elementor y WooCommerce para crear experiencias web excepcionales.
+<p align="left">🚀 ¡Hola! Soy Jesús Soto, Ingeniero en Informática y Fullstack Developer especializado en Javascript, con 8 años de experiencia (2016 - 2024) en el desarrollo web. Mi pasión por el Frontend y el Backend utilizando Javascript como lenguaje principal me ha llevado a destacarme como Senior en JavaScript, TypeScript, CSS3 y HTML5. Me especializo en tecnologías como React.js, Next.js, Express.js, Node.js y MongoDB, junto con Three.js, Redux y Rest APIs. Además, cuento con 6 años de experiencia trabajando con WordPress, donde soy experto en el uso de Elementor y WooCommerce para crear experiencias web excepcionales.
 
-🔍 He tenido el privilegio de trabajar en diversos proyectos, desde sitios web hasta tiendas en línea, y mi enfoque siempre está en la optimización y mejora continua. Mi habilidad para adaptarme rápidamente a nuevas herramientas y metodologías me permite mantenerme actualizado y ofrecer soluciones innovadoras.
+🔍 Durante mi carrera, he tenido el privilegio de contribuir a una amplia gama de proyectos, desde sitios web hasta tiendas en línea. Mi enfoque principal siempre ha sido la optimización y la mejora continua. Mi capacidad para adaptarme rápidamente a nuevas herramientas y metodologías me permite mantenerme actualizado y ofrecer soluciones innovadoras.
 
-💡 Además, tengo experiencia en UX/UI utilizando Figma para diseñar interfaces intuitivas y atractivas. Estoy siempre abierto a nuevas oportunidades y a la posibilidad de colaborar en emocionantes proyectos web. ¡Conéctate conmigo y exploremos cómo puedo aportar valor a tu equipo o proyecto!</p>
+💡Además,
 
+🔹 Tengo experiencia en diseño de interfaces de usuario (UI/UX) utilizando Figma para crear interfaces intuitivas y atractivas.
 
-- 🌱 Actualmente estoy aprendiendo **React Native**
+🔹 Soy un usuario experimentado de la metodología Scrum, utilizando herramientas como Jira y Azure para la gestión de proyectos ágiles.
 
-- 👯 Busco colaborar en **Proyectos web**
+🔹 He desempeñado el rol de DevOps, centrándome en la automatización, la integración continua, el monitoreo constante, la retroalimentación y la mejora continua.
+
+Estoy siempre abierto a nuevas oportunidades y emocionado por la posibilidad de colaborar en proyectos web innovadores.
+</p>
+
 
 - 👨‍💻 Todos mis proyectos están disponibles en mi web [sotocodev.vercel.app](https://sotocodev.vercel.app/)
 
@@ -129,7 +134,7 @@
 
 - 📄 Conoce acerca de mis experiencias [Certificados/Diplomas](https://sotocodev.vercel.app/) [Proyectos laborales](https://sotocodev.vercel.app/) [Proyectos Personales](https://sotocodev.vercel.app/) [Proyectos Practicos](https://sotocodev.vercel.app/)
 
-## Contact me
+## Contactame
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sotocodev/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sotocodev.vercel.app)
