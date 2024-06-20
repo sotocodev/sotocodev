@@ -1,6 +1,6 @@
 <div align="center">
- <img src="https://github.com/sotocodev/sotocodev/assets/133919332/8ed9840e-cd66-4b75-a699-a276cb857f05" /> 
-  
+ <img src="https://github.com/sotocodev/sotocodev/assets/133919332/ee2afd3c-ffc5-4ad6-9bfc-0147ca2593b7" /> 
+
 </div>
 <div align='center'>
 
