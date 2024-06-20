@@ -77,16 +77,16 @@
 
 - 👯 Busco colaborar en **Proyectos web**
 
-- 👨‍💻 Todos mis proyectos están disponibles en mi web [www.sotocodev.com](https://sotocodev.com)
+- 👨‍💻 Todos mis proyectos están disponibles en mi web [sotocodev.vercel.app](https://sotocodev.vercel.app/)
 
 - 💬 Pregúntame sobre **Programacion, ReactJs, NodeJs, Wordpress, etc.**
 
-- 📄 Conoce acerca de mis experiencias [Certificados/Diplomas](https://sotocodev.com/certificados) [Proyectos laborales](https://sotocodev.com/work-projects) [Proyectos Personales](https://sotocodev.com/personal-projects) [Proyectos Practicos](https://sotocodev.com/sample-projects)
+- 📄 Conoce acerca de mis experiencias [Certificados/Diplomas](https://sotocodev.vercel.app/) [Proyectos laborales](https://sotocodev.vercel.app/) [Proyectos Personales](https://sotocodev.vercel.app/) [Proyectos Practicos](https://sotocodev.vercel.app/)
 
 ## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sotocodev/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sotocodev.com)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sotocodev.vercel.app)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:EEFF00,100:a82da8&section=footer&reversal=true&fontAlign=50&descAlign=52&descAlignY=50&fontSize=35"/>
 
