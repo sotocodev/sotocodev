@@ -1,5 +1,6 @@
 <div align="center">
- <img src="https://github.com/sotocodev/sotocodev/assets/133919332/ee2afd3c-ffc5-4ad6-9bfc-0147ca2593b7" /> 
+ <img src="https://github.com/sotocodev/sotocodev/assets/133919332/ac638048-9025-4ebc-8a4e-1927ca796173" /> 
+
 
 </div>
 <div align='center'>
